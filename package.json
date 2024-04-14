@@ -1,0 +1,36 @@
+{
+  "name": "com.nardev.firstpersoncontroller",
+  "version": "1.0.0",
+  "displayName": "First Person Controller",
+  "description": "Custom Package that includes FirstPersonControllers implemented with CharacterController and Rigidbody",
+  "unity": "2022.3",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  },
+  "keywords": [
+    "FPS",
+    "FirstPersonController",
+    "CharacterController",
+    "Rigidbody"
+  ],
+  "author": {
+    "name": "NarDev",
+    "email": "bautista.mateogm@gmail.com",
+    "url": "https://github.com/NarDevGH"
+  },
+  "samples": [
+      {
+          "displayName": "Character Controller Character",
+          "description": "Contains sample for a CharacterController based player character",
+          "path": "Samples~/Samples_CharacterController_Based"
+      },
+      {
+          "displayName": "Rigidbody Character",
+          "description": "Contains sample for a Rigidbody based player character",
+          "path": "Samples~/Samples_Rigidbody_Based"
+      }
+  ]
+}
