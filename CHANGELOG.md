@@ -1,3 +1,8 @@
+## VERSION 1.1.0
+- Replaced Package Changelog URL.
+- Replaced Package Licensing URL.
+- Removed Meta Files.
+
 ## VERSION 1.0.0
 
 - Player Input Manager from Unity InputSystem Actions.
