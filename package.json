@@ -22,6 +22,11 @@
   },
   "samples": [
       {
+          "displayName": "Just Code",
+          "description": "Import just the code",
+          "path": "Samples~/Just Code"
+      },
+      {
           "displayName": "Standard Project",
           "description": "Sample using the Standard Unity Project Template",
           "path": "Samples~/Standard Project"
