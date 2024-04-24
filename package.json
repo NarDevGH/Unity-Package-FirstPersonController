@@ -22,14 +22,14 @@
   },
   "samples": [
       {
-          "displayName": "Standard Project Sample",
+          "displayName": "Standard Project",
           "description": "Sample using the Standard Unity Project Template",
-          "path": "Samples~/Standard_Project_Sample"
+          "path": "Samples~/Standard Project"
       },
       {
-          "displayName": "URP Project Sample",
-          "description": "Sample using the URP Unity Project Template",
-          "path": "Samples~/URP_Project_Sample"
+          "displayName": "SRP Project",
+          "description": "Sample using the SRP Unity Project Template",
+          "path": "Samples~/SRP Project"
       }
   ]
 }
