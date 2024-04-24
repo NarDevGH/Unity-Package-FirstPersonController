@@ -22,14 +22,14 @@
   },
   "samples": [
       {
-          "displayName": "Character Controller Character",
-          "description": "Contains sample for a CharacterController based player character",
-          "path": "Samples~/Samples_CharacterController_Based"
+          "displayName": "Standard Project Sample",
+          "description": "Sample using the Standard Unity Project Template",
+          "path": "Samples~/Standard_Project_Sample"
       },
       {
-          "displayName": "Rigidbody Character",
-          "description": "Contains sample for a Rigidbody based player character",
-          "path": "Samples~/Samples_Rigidbody_Based"
+          "displayName": "URP Project Sample",
+          "description": "Sample using the URP Unity Project Template",
+          "path": "Samples~/URP_Project_Sample"
       }
   ]
 }
